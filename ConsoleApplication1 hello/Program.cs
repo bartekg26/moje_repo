@@ -10,7 +10,11 @@ namespace ConsoleApplication1_hello
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("oks777");
+=======
+            Console.WriteLine("oks3333");
+>>>>>>> parent of a016be6... szostyy
         }
     }
 }
