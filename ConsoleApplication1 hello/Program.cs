@@ -11,7 +11,6 @@ namespace ConsoleApplication1_hello
         static void Main(string[] args)
         {
 
-
             Console.WriteLine("oks7777");
 
 
