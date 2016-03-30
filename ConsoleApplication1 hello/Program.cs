@@ -10,7 +10,7 @@ namespace ConsoleApplication1_hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("oks1111");
+            Console.WriteLine("oks2222");
         }
     }
 }
