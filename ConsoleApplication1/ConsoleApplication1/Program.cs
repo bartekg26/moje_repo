@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("master");
             Console.WriteLine("ok111yyy");
             Console.WriteLine("druga zmiana");
         }
