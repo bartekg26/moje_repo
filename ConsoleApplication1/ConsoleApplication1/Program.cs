@@ -10,8 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("masterr1");
-            Console.WriteLine("ok111yy");
+            Console.WriteLine("master");
+            Console.WriteLine("ok111yyy");
             Console.WriteLine("druga zmiana");
         }
     }
