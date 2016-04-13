@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("master");
             Console.WriteLine("OK");
-            Console.WriteLine("INNA zmiana");
+            Console.WriteLine("INNA zmianaaaa");
         }
     }
 }
