@@ -10,9 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("masterr1tytrytr");
-            Console.WriteLine("ok111");
-            Console.WriteLine("kolejna zmianaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee000");
+            Console.WriteLine("master");
+            Console.WriteLine("ok111yyyuuuuuuu");
+            Console.WriteLine("druga zmianawwwwwwwwwtttwwwwww");
         }
     }
 }
