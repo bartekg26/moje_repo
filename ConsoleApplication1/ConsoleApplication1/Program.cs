@@ -11,8 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("master");
-            Console.WriteLine("ok111yyyuuuuuubu");
-            Console.WriteLine("druga zmianaaaaaaaaaaaaaaaaafvvffff");
+            Console.WriteLine("ok111yyyuuuuuuu");
+            Console.WriteLine("druga zmiana");
         }
     }
 }
